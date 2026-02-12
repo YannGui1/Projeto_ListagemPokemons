@@ -20,10 +20,10 @@ body{
    .content{
     max-width: 992px;
     height: auto;
-    margin: 1rem auto; /*Marin auto coloca o maximo possivel pra direita e pra esquerda fazendo ficar centralizado. Tem q ter tamanho*/
+    margin: 1rem auto; /*Margin auto coloca o maximo possivel pra direita e pra esquerda fazendo ficar centralizado. Tem que ter tamanho*/
     border-radius: 1rem;
    }
-  }
+}
 .content h1{
     margin: 0;
 }
