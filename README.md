@@ -38,7 +38,7 @@ Siga os passos abaixo para testar a Pokedex na sua máquina:
    git clone https://github.com/YannGui1/Projeto_ListagemPokemons.git
 2. **Acesse a pasta do projeto:**
    ```bash
-   cd NOME_DO_REPOSITORIO
+   cd Projeto_ListagemPokemons
 3. **Instale as dependências:**
     O projeto utiliza o Vite como ferramenta de build. Instale os pacotes necessários via NPM:
    ```bash
